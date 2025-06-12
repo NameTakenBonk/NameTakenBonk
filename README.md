@@ -1,5 +1,6 @@
 * Lead Programmer and Vice Development Officer **@ Blackout Innovations S.A.S**
-* Lead Programmer **@ Devteam6**
+* Assistant Programmer **@ Threadville**
+* Programmer **@ Devteam6**
 * Programmer **@ Versify**
 
 # I manage 2 repos: 
